@@ -38,7 +38,8 @@ Save it. Open it. The radio can be off.
 `tru-canonbound` · `tru-lifeline` · `tru-search-engine`
 
 **Field cards**  
-`tru-signal` · `tru-pantry` · `tru-wind` · `tru-tide` · `tru-breath` · `tru-prayer` · and more on the Shelf
+`tru-signal` · `tru-pantry` · `tru-wind` · `tru-tide` · `tru-breath` · `tru-prayer`  
+(+ many more on the [Shelf](https://github.com/splashdown1/tru-shelf))
 
 **Infrastructure**  
 `tru-door` · `tru-rules` · `tru-join` · `tru-radio` · `tru-harbor`
